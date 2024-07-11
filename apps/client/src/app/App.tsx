@@ -38,7 +38,7 @@ export const App = () => {
               testID="heading"
               role="heading"
             >
-              Welcome Client 👋
+              Seat khali cha ! 👋
             </Text>
           </View>
           <View style={styles.section}>
